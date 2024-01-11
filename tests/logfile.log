@@ -1,0 +1,22 @@
+2024-01-09 17:30:50,733 : INFO :test_e2e : Login page object created.
+2024-01-09 17:30:50,733 : INFO :test_e2e : Create channel object created.
+2024-01-09 17:30:50,946 : INFO :test_e2e : Enter username
+2024-01-09 17:30:53,076 : INFO :test_e2e : Enter password.
+2024-01-09 17:30:55,182 : INFO :test_e2e : Clicked on let's go button
+2024-01-09 17:31:02,280 : INFO :test_e2e : Click on +New channel button
+2024-01-09 17:31:07,634 : INFO :test_e2e : Enter Recipient name.
+2024-01-09 17:31:12,753 : INFO :test_e2e : Enter company name.
+2024-01-09 17:31:14,903 : INFO :test_e2e : Enter email address.
+2024-01-09 17:31:17,040 : INFO :test_e2e : Enter tag line.
+2024-01-09 17:31:24,128 : INFO :test_e2e : Click on create button
+2024-01-09 17:44:00,905 : INFO :test_e2e : Login page object created.
+2024-01-09 17:44:00,905 : INFO :test_e2e : Create channel object created.
+2024-01-09 17:44:01,159 : INFO :test_e2e : username is:-prajapatikalpesh8910@gmail.com
+2024-01-09 17:44:03,302 : INFO :test_e2e : password is:-kpk8910123@
+2024-01-09 17:44:05,390 : INFO :test_e2e : Clicked on let's go button
+2024-01-09 17:44:12,484 : INFO :test_e2e : Click on +New channel button
+2024-01-09 17:44:17,830 : INFO :test_e2e : Recipient name is:-nik karlos
+2024-01-09 17:44:22,946 : INFO :test_e2e : company name is:-graphic company
+2024-01-09 17:44:25,087 : INFO :test_e2e : Email address is:-john@yopmail.com
+2024-01-09 17:44:27,658 : INFO :test_e2e : tag line is:-This is sample tag line
+2024-01-09 17:44:34,736 : INFO :test_e2e : Click on create button

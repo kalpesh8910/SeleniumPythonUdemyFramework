@@ -1,0 +1,80 @@
+2024-01-09 17:55:30,067 : INFO :test_e2e : Login page object created.
+2024-01-09 17:55:30,068 : INFO :test_e2e : Create channel object created.
+2024-01-09 17:55:30,286 : INFO :test_e2e : username is:-prajapatikalpesh8910@gmail.com
+2024-01-09 17:55:32,436 : INFO :test_e2e : password is:-kpk8910123@
+2024-01-09 17:55:34,529 : INFO :test_e2e : Clicked on let's go button
+2024-01-09 17:55:41,616 : INFO :test_e2e : Click on +New channel button
+2024-01-09 17:55:46,928 : INFO :test_e2e : Recipient name is:-nik karlos
+2024-01-09 17:55:52,038 : INFO :test_e2e : company name is:-graphic company
+2024-01-09 17:55:54,176 : INFO :test_e2e : Email address is:-john@yopmail.com
+2024-01-09 17:55:56,296 : INFO :test_e2e : tag line is:-This is sample tag line
+2024-01-09 17:56:03,379 : INFO :test_e2e : Click on create button
+2024-01-09 17:57:32,215 : INFO :test_e2e : Login page object created.
+2024-01-09 17:57:32,219 : INFO :test_e2e : Create channel object created.
+2024-01-09 17:57:32,462 : INFO :test_e2e : username is:-prajapatikalpesh8910@gmail.com
+2024-01-09 17:57:34,798 : INFO :test_e2e : password is:-kpk8910123@
+2024-01-09 17:57:36,879 : INFO :test_e2e : Clicked on let's go button
+2024-01-09 17:57:43,974 : INFO :test_e2e : Click on +New channel button
+2024-01-09 17:57:49,482 : INFO :test_e2e : Recipient name is:-nik karlos
+2024-01-09 17:57:54,594 : INFO :test_e2e : company name is:-graphic company
+2024-01-09 17:57:56,736 : INFO :test_e2e : Email address is:-john@yopmail.com
+2024-01-09 17:57:58,863 : INFO :test_e2e : tag line is:-This is sample tag line
+2024-01-09 17:58:05,936 : INFO :test_e2e : Click on create button
+2024-01-09 18:10:35,130 : INFO :test_e2e : Login page object created.
+2024-01-09 18:10:35,130 : INFO :test_e2e : Create channel object created.
+2024-01-09 18:10:35,342 : INFO :test_e2e : username is:-prajapatikalpesh8910@gmail.com
+2024-01-09 18:10:37,464 : INFO :test_e2e : password is:-kpk8910123@
+2024-01-09 18:10:39,545 : INFO :test_e2e : Clicked on let's go button
+2024-01-09 18:10:46,638 : INFO :test_e2e : Click on +New channel button
+2024-01-09 18:10:51,759 : INFO :test_e2e : Recipient name is:-nik karlos
+2024-01-09 18:10:56,874 : INFO :test_e2e : company name is:-graphic company
+2024-01-09 18:10:59,035 : INFO :test_e2e : Email address is:-john@yopmail.com
+2024-01-09 18:11:01,155 : INFO :test_e2e : tag line is:-This is sample tag line
+2024-01-09 18:11:08,226 : INFO :test_e2e : Click on create button
+2024-01-09 18:12:52,881 : INFO :test_e2e : Login page object created.
+2024-01-09 18:12:52,881 : INFO :test_e2e : Create channel object created.
+2024-01-09 18:12:53,093 : INFO :test_e2e : username is:-prajapatikalpesh8910@gmail.com
+2024-01-09 18:12:55,214 : INFO :test_e2e : password is:-kpk8910123@
+2024-01-09 18:12:57,295 : INFO :test_e2e : Clicked on let's go button
+2024-01-09 18:15:33,889 : INFO :test_e2e : Login page object created.
+2024-01-09 18:15:33,890 : INFO :test_e2e : Create channel object created.
+2024-01-09 18:15:34,129 : INFO :test_e2e : username is:-prajapatikalpesh8910@gmail.com
+2024-01-09 18:15:36,287 : INFO :test_e2e : password is:-kpk8910123@
+2024-01-09 18:15:38,371 : INFO :test_e2e : Clicked on let's go button
+2024-01-09 18:15:45,457 : INFO :test_e2e : Click on +New channel button
+2024-01-09 18:15:50,979 : INFO :test_e2e : Recipient name is:-nik karlos
+2024-01-09 18:15:56,095 : INFO :test_e2e : company name is:-graphic company
+2024-01-09 18:15:58,238 : INFO :test_e2e : Email address is:-john@yopmail.com
+2024-01-09 18:16:00,364 : INFO :test_e2e : tag line is:-This is sample tag line
+2024-01-09 18:16:07,447 : INFO :test_e2e : Click on create button
+2024-01-09 18:17:20,188 : INFO :test_e2e : Login page object created.
+2024-01-09 18:17:20,189 : INFO :test_e2e : Create channel object created.
+2024-01-09 18:17:20,410 : INFO :test_e2e : username is:-prajapatikalpesh8910@gmail.com
+2024-01-09 18:18:26,093 : INFO :test_e2e : Login page object created.
+2024-01-09 18:18:26,093 : INFO :test_e2e : Create channel object created.
+2024-01-09 18:18:26,327 : INFO :test_e2e : username is:-prajapatikalpesh8910@gmail.com
+2024-01-09 18:18:28,457 : INFO :test_e2e : password is:-kpk8910123@
+2024-01-09 18:18:30,541 : INFO :test_e2e : Clicked on let's go button
+2024-01-09 18:18:37,630 : INFO :test_e2e : Click on +New channel button
+2024-01-09 18:21:06,259 : INFO :test_e2e : Login page object created.
+2024-01-09 18:21:06,259 : INFO :test_e2e : Create channel object created.
+2024-01-09 18:21:06,515 : INFO :test_e2e : username is:-prajapatikalpesh8910@gmail.com
+2024-01-09 18:21:08,640 : INFO :test_e2e : password is:-kpk8910123@
+2024-01-09 18:21:10,713 : INFO :test_e2e : Clicked on let's go button
+2024-01-09 18:21:17,800 : INFO :test_e2e : Click on +New channel button
+2024-01-09 18:21:23,085 : INFO :test_e2e : Recipient name is:-nik karlos
+2024-01-09 18:21:28,186 : INFO :test_e2e : company name is:-graphic company
+2024-01-09 18:21:30,325 : INFO :test_e2e : Email address is:-john@yopmail.com
+2024-01-09 18:21:32,444 : INFO :test_e2e : tag line is:-This is sample tag line
+2024-01-09 18:21:39,520 : INFO :test_e2e : Click on create button
+2024-01-09 18:29:53,430 : INFO :test_e2e : Login page object created.
+2024-01-09 18:29:53,430 : INFO :test_e2e : Create channel object created.
+2024-01-09 18:29:53,659 : INFO :test_e2e : username is:-prajapatikalpesh8910@gmail.com
+2024-01-09 18:29:55,804 : INFO :test_e2e : password is:-kpk8910123@
+2024-01-09 18:29:57,880 : INFO :test_e2e : Clicked on let's go button
+2024-01-09 18:30:04,965 : INFO :test_e2e : Click on +New channel button
+2024-01-09 18:30:10,102 : INFO :test_e2e : Recipient name is:-nik karlos
+2024-01-09 18:30:15,207 : INFO :test_e2e : company name is:-graphic company
+2024-01-09 18:30:17,344 : INFO :test_e2e : Email address is:-john@yopmail.com
+2024-01-09 18:30:19,461 : INFO :test_e2e : tag line is:-This is sample tag line
+2024-01-09 18:30:26,536 : INFO :test_e2e : Click on create button
