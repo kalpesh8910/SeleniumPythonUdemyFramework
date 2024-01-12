@@ -18,5 +18,5 @@ class ExcelDemo:
         # Close the Excel file
         workbook.close()
 
-
+# run the method
 ExcelDemo().getdataFromExcel()
